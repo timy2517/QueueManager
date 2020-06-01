@@ -1,14 +1,14 @@
-### Start page
+### Queue page
 <p align="center">
-  <img src="https://github.com/timy2517/blob/mockup/mockups/select.png">
+  <img src="https://github.com/timy2517/QueueManager/blob/master/mockups/select.png">
 </p>
 
-### Catalog page
+### Pricing page
 <p align="center">
-  <img src="https://github.com/timy2517/blob/mockup/mockups/pricing.png">
+  <img src="https://github.com/timy2517/QueueManager/blob/master/mockups/pricing.png">
 </p>
 
-### Game page
+### Contact page
 <p align="center">
-  <img src="https://github.com/timy2517/blob/mockup/mockups/contact.png">
+  <img src="https://github.com/timy2517/QueueManager/blob/master/mockups/contact.png">
 </p>
