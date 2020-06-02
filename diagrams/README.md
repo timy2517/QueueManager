@@ -25,15 +25,15 @@
 ##  1.2. Диаграммы активности
 
 <p align="center">
-  <img src="https://github.com/timy2517/QueueManager/tree/master/diagrams/images/d_reg.png">
+  <img src="https://github.com/timy2517/QueueManager/blob/master/diagrams/images/d_reg.png">
 </p>
 
 <p align="center">
-  <img src="https://github.com/timy2517/QueueManager/tree/master/diagrams/images/d_view.png">
+  <img src="https://github.com/timy2517/QueueManager/blob/master/diagrams/images/d_view.png">
 </p>
 
 <p align="center">
-  <img src="https://github.com/timy2517/QueueManager/tree/master/diagrams/images/d_book.png">
+  <img src="https://github.com/timy2517/QueueManager/blob/master/diagrams/images/d_book.png">
 </p>
 
 <a name="1.3"/>
@@ -41,7 +41,7 @@
 ##  1.3. Диаграммы состояний
 
 <p align="center">
-  <img src="https://github.com/timy2517/QueueManager/tree/master/diagrams/images/actor.png">
+  <img src="https://github.com/timy2517/QueueManager/blob/master/diagrams/images/actor.png">
 </p>
 
 #  2. Моделирование статической структуры системы
